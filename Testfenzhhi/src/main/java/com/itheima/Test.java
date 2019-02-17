@@ -10,4 +10,8 @@ public class Test {
         System.out.println("master分支");
     }
 
+
+    public static void findByName(){
+        System.out.println("dev1分支");
+    }
 }
